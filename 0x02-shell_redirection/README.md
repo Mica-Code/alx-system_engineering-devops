@@ -1,1 +1,1 @@
-This is a readme file for shell_redirection project
+This is a README.md file for shell_redirection project
