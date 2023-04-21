@@ -1,1 +1,1 @@
-
+Blog poster
